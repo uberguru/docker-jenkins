@@ -71,4 +71,7 @@ ldap
 email-ext
 scm-sync-configuration
 jira
-
+ansible
+hp-application-automation-tools-plugin
+nexus-artifact-uploader
+sonar
